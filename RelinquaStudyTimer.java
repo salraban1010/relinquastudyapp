@@ -1,5 +1,4 @@
 /* Sameer Alabran
-**MIS final project(Relinqua)
 **The program uses the promodo technique by allowing the user to set specific study time and break time
 ** while diplaying random motivational messages
 */
